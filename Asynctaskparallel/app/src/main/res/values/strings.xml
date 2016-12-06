@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Asynctask parallel</string>
+    <string name="button_download">Start download</string>
+</resources>
